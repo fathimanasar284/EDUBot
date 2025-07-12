@@ -1,0 +1,171 @@
+User: hi -> Bot: Hello! How can I assist you today?
+User: i need courses -> Bot: I couldn't find a matching course. Try describing your interests more clearly!
+User: library -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: courses -> Bot: I couldn't find a matching course. Try describing your interests more clearly!
+User: hi -> Bot: Hey! Ready to help.
+User: courses -> Bot: I couldn't find a matching course. Try describing your interests more clearly!
+User: available programs -> Bot: Yes, we have online and hybrid programs.
+User: fees -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hey! Ready to help.
+User: courses -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: on-campus accommodation? -> Bot: Choose from single, shared, or deluxe rooms with meal plans.
+User: hi -> Bot: Hi there! What would you like to know?
+User: hi -> Bot: Hi there! What would you like to know?
+User: courses -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: hi -> Bot: Hey! Ready to help.
+User: courses -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: hi -> Bot: Hey! Ready to help.
+User: courses -> Bot: Yes, we have online and hybrid programs.
+User: hi -> Bot: Hey! Ready to help.
+User: hi -> Bot: Hello! How can I assist you today?
+User: courses -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: hi -> Bot: Hello! How can I assist you today?
+User: courses -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: location -> Bot: The admin office is on the 1st floor of the Main Building.
+User: upcoming events -> Bot: Upcoming events: Hackathon, Tech Talk, Music Night.
+User: scholarships available? -> Bot: Hello! How can I assist you today?
+User: canteen -> Bot: Located in the Student Center and open till 10 PM.
+User: What courses are offered? -> Bot: Visit our course catalog page for the full list.
+User: Tell me about hostel facilities -> Bot: Hostel fees range from $1,500 to $3,000 per semester depending on the room type and meal plan.
+User: What sports facilities are available? -> Bot: Professional coaches are available for various sports including cricket, football, basketball, and swimming.
+User: How can I join student clubs? -> Bot: You can sign up during Club Fair Week.
+User: Tell me about hostel facilities -> Bot: Accommodation application opens post-admission.
+User: How can I join student clubs? -> Bot: You can sign up during Club Fair Week.
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: What sports facilities are available? -> Bot: The gym is open from 6 AM to 10 PM daily with trainers available during working hours.
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: Tell me about hostel facilities -> Bot: Choose from single, shared, or deluxe rooms with meal plans.
+User: How can I join student clubs? -> Bot: You can sign up during Club Fair Week.
+User: What career services do you offer? -> Bot: Hi there! What would you like to know?
+User: courses -> Bot: Yes, we have online and hybrid programs.
+User: accommodation -> Bot: Accommodation application opens post-admission.
+User: How can I join student clubs? -> Bot: You can sign up during Club Fair Week.
+User: What career services do you offer? -> Bot: Hey! Ready to help with any campus information you need.
+User: courses -> Bot: Yes, we have online and hybrid programs.
+User: Tell me about hostel facilities -> Bot: Accommodation application opens post-admission.
+User: How can I join student clubs? -> Bot: To form a new club, you need at least 10 members and a faculty advisor.
+User: How can I join student clubs? -> Bot: Most clubs are free to join with minimal activity fees for special events.
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: What sports facilities are available? -> Bot: Join sports clubs via the campus portal.
+User: What career services do you offer? -> Bot: Hey! Ready to help with any campus information you need.
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: Are scholarships available? -> Bot: Hello! How can I assist you today?
+User: hi -> Bot: Hello! How can I assist you today?
+User: What sports facilities are available? -> Bot: We have a fully equipped gym, pool, tennis and basketball courts.
+User: What career services do you offer? -> Bot: Welcome! How may I help you with your queries?
+User: How can I join student clubs? -> Bot: We have over 30 clubs: tech, music, arts, photography, drama, and more!
+User: hi -> Bot: Hi there! What would you like to know?
+User: How can I join student clubs? -> Bot: We have over 30 clubs: tech, music, arts, photography, drama, and more!
+User: What career services do you offer? -> Bot: Welcome! How may I help you with your queries?
+User: What sports facilities are available? -> Bot: Intramural tournaments are held every semester.
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: How can I join student clubs? -> Bot: We have over 30 clubs: tech, music, arts, photography, drama, and more!
+User: courses -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: research -> Bot: Professors maintain regular office hours for student consultations.
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: courses -> Bot: Our programs include Bachelor's, Master's, and Diploma courses across various disciplines including Technology, Business, Sciences, and Arts.
+User: counseling -> Bot: We host campus placements every year.
+User: What career services do you offer? -> Bot: Welcome! How may I help you with your queries?
+User: How can I join student clubs? -> Bot: Most clubs are free to join with minimal activity fees for special events.
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: fees_payment -> Bot: Payment can be made online through our student portal using credit/debit cards or bank transfers.
+User: hi -> Bot: Hi there! What would you like to know?
+User: How much is the tuition fees? -> Bot: Fees vary by program. Visit the finance section for details.
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: What courses are offered? -> Bot: We offer courses in Computer Science, Engineering, Business, Arts, and Law.
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hi there! What would you like to know?
+User: What courses are offered? -> Bot: Yes, we have online and hybrid programs.
+User: How much is the tuition fee?] -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: How much is the tuition fee? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: Tell me about hostel facilities -> Bot: Choose from single, shared, or deluxe rooms with meal plans.
+User: What sports facilities are available? -> Bot: Professional coaches are available for various sports including cricket, football, basketball, and swimming.
+User: How much is the tuition fees? -> Bot: Tuition for undergrads starts at $10,000 per year.
+User: How much is the tuition fees? -> Bot: Payment can be made online through our student portal using credit/debit cards or bank transfers.
+User: Are scholarships available? -> Bot: Hi there! What would you like to know?
+User: Are scholarships available? -> Bot: Hey! Ready to help with any campus information you need.
+User: How much is the tuition fees? -> Bot: Payment can be made online through our student portal using credit/debit cards or bank transfers.
+User: Are scholarships available? -> Bot: Hey! Ready to help with any campus information you need.
+User: Are scholarships available? -> Bot: Hello! How can I assist you today?
+User: hi -> Bot: Hi there! What would you like to know?
+User: Are scholarships available? -> Bot: Welcome! How may I help you with your queries?
+User: Are scholarships available? -> Bot: Welcome! How may I help you with your queries?
+User: Tell me about the admission process -> Bot: Admissions are open now—visit our website to apply.
+User: Tell me about the admission process -> Bot: Fill out the application and upload required documents.
+User: What courses are offered? -> Bot: Yes, we have online and hybrid programs.
+User: How much is the tuition fees? -> Bot: We offer merit-based and need-based financial aid.
+User: Are scholarships available? -> Bot: Hi there! What would you like to know?
+User: Tell me about hostel facilities -> Bot: Choose from single, shared, or deluxe rooms with meal plans.
+User: What sports facilities are available? -> Bot: The gym is open from 6 AM to 10 PM daily with trainers available during working hours.
+User: How can I join student clubs? -> Bot: We have over 30 clubs: tech, music, arts, photography, drama, and more!
+User: What career services do you offer? -> Bot: Hey! Ready to help with any campus information you need.
+User: hostel details -> Bot: Choose from single, shared, or deluxe rooms with meal plans.
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: What career services do you offer? -> Bot: Hey! Ready to help with any campus information you need.
+User: Are scholarships available? -> Bot: Hey! Ready to help with any campus information you need.
+User: hi -> Bot: Hi there! What would you like to know?
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hello! How can I assist you today?
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: Tell me about the admission process -> Bot: The admission process includes submitting your application form, academic transcripts, and attending an entrance test. The deadline is July 15th.
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hello! How can I assist you today?
+User: How much is the tuition fees? -> Bot: Fees vary by program. Visit the finance section for details.
+User: Are financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: What are the scholarships available?? -> Bot: Hey! Ready to help with any campus information you need.
+User: hello -> Bot: Hey! Ready to help with any campus information you need.
+User: What sports facilities are available? -> Bot: We have a fully equipped gym, pool, tennis and basketball courts.
+User: apply for scholorship -> Bot: Hello! How can I assist you today?
+User: thande thandhaa -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: fees -> Bot: Fees vary by program. Visit the finance section for details.
+User: scholorship -> Bot: Hey! Ready to help with any campus information you need.
+User: scholorships -> Bot: Hello! How can I assist you today?
+User: financial -> Bot: We have partnerships with several banks for education loans with special interest rates for our students.
+User: What sports facilities are available? -> Bot: We have a fully equipped gym, pool, tennis and basketball courts.
+User: Are any financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: financial -> Bot: Deadlines vary, check the scholarships page.
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: How much is the tuition fees? -> Bot: Tuition for undergrads starts at $10,000 per year.
+User: What sports facilities are available? -> Bot: Professional coaches are available for various sports including cricket, football, basketball, and swimming.
+User: Are any financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: financial -> Bot: Yes, we offer several scholarships—both merit and need-based.
+User: financial aids? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hi there! What would you like to know?
+User: Are any financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: scholorships -> Bot: Hey! Ready to help with any campus information you need.
+User: financial aid -> Bot: Yes, we offer several scholarships—both merit and need-based.
+User: financial -> Bot: Apply for scholarships through the student portal.
+User: How much is the tuition fees? -> Bot: Payment can be made online through our student portal using credit/debit cards or bank transfers.
+User: Are any financial aids available? -> Bot: I'm sorry, I didn't understand that. Can you try again?
+User: hi -> Bot: Hello! How can I assist you today?
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: scholorships -> Bot: Hi there! What would you like to know?
+User: hi -> Bot: Hello! How can I assist you today?
+User: scholorships -> Bot: Hello! How can I assist you today?
+User: hi -> Bot: Hey! Ready to help with any campus information you need.
+User: How can I join student clubs? -> Bot: We have over 30 clubs: tech, music, arts, photography, drama, and more!
+User: Are any financial aids available? -> Bot: Merit scholarships cover up to 50% of tuition fees for students with outstanding academic records.
+User: Are any financial aids available? -> Bot: We also provide education loans through partnered banks with special interest rates.
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: Are any financial aids available? -> Bot: Merit scholarships cover up to 50% of tuition fees for students with outstanding academic records.
+User: hi -> Bot: Welcome! How may I help you with your queries?
+User: What sports facilities are available? -> Bot: Join sports clubs via the campus portal.
+User: How can I join student clubs? -> Bot: To form a new club, you need at least 10 members and a faculty advisor.
+User: What career services do you offer? -> Bot: Hey! Ready to help with any campus information you need.
+User: How much is the tuition fees? -> Bot: Tuition for undergrads starts at $10,000 per year.
+User: How can I join student clubs? -> Bot: Most clubs are free to join with minimal activity fees for special events.
+User: courses -> Bot: Our programs include Bachelor's, Master's, and Diploma courses across various disciplines including Technology, Business, Sciences, and Arts.
+User: hi -> Bot: Hello! How can I assist you today?
+User: What sports facilities are available? -> Bot: Intramural tournaments are held every semester.
+User: courses -> Bot: Yes, we have online and hybrid programs.
+User: do we have hostel facilities -> Bot: Accommodation application opens post-admission.
